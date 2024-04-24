@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "fbef71b85dbb0f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eee3c722a01c3c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8cf63160e9d3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETF/01. ETF 이동 평균.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "710b3c6f7d5e6b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9daefbf73590e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f86d160bb3783381",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e68cd406003f12c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "506933940657407e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dbf2664efc57772",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac96722742a3e021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7d0d52e24692d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ETF/01. ETF 이동 평균.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17572fb6a28872cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ETF/01. ETF 이동 평균.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11e622b6c65060c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "970988d868e541fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ETF/01. ETF 이동 평균.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e8cf63160e9d3d1",
+  "lastOpenFiles": [
+    "ETF/01. ETF 이동 평균.md",
+    "ETF",
+    "Welcome.md",
+    "PYTHON/Code",
+    "PYTHON"
+  ]
+}
